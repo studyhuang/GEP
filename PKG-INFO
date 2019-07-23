@@ -1,0 +1,18 @@
+Metadata-Version: 1.0
+Name: PyGEP
+Version: 0.3.0.dev-r117
+Summary: Gene Expression Programming for Python
+Home-page: http://code.google.com/p/pygep
+Author: Ryan J. O'Neil
+Author-email: ryanjoneil@gmail.com
+License: GPL
+Download-URL: http://code.google.com/p/pygep/downloads/list
+Description: UNKNOWN
+Keywords: gene expression programming genetic evolutionary
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License (GPL)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
